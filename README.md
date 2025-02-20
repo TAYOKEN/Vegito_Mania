@@ -10,4 +10,10 @@ A Dokkan Battle mod
 
 - Few custom EZA Reworks
 
+## Languages Used
+
+- SQL (mostly)
+
+- LUA for SA scripting
+
 ### Still in making
