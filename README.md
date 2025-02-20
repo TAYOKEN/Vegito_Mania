@@ -8,6 +8,6 @@ A Dokkan Battle mod
 
 - Event Vegito Mania
 
-- Few custom EZA
+- Few custom EZA Reworks
 
 ### Still in making
