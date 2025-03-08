@@ -1,0 +1,4 @@
+INSERT OR REPLACE INTO events (id, patch_id, name, open_at, close_at, updated_at, created_at, banner_image_url, event_image_url) VALUES (7850001, 785001, 'Vegito Mania', '1709502323', '9999999999', '2022-08-10 02:56:53', '2022-08-10 02:56:53', 'https://i.imgur.com/6e2nqtU.png', 'https://i.imgur.com/xSIn8SK.png');
+INSERT OR REPLACE INTO events (id, patch_id, name, open_at, close_at, updated_at, created_at, banner_image_url, event_image_url) VALUES (7850002, 785001, 'Vegito Mania', '1709502323', '9999999999', '2022-08-10 02:56:53', '2022-08-10 02:56:53', 'https://i.imgur.com/6e2nqtU.png', 'https://i.imgur.com/xSIn8SK.png');
+INSERT OR REPLACE INTO events (id, patch_id, name, open_at, close_at, updated_at, created_at, banner_image_url, event_image_url) VALUES (7850003, 785001, 'Vegito Mania', '1709502323', '9999999999', '2022-08-10 02:56:53', '2022-08-10 02:56:53', 'https://i.imgur.com/6e2nqtU.png', 'https://i.imgur.com/xSIn8SK.png');
+

@@ -1,0 +1,15 @@
+{
+    "Name": "Vegito Mania Pack",
+    "Description": "Cant tank shi",
+    "UUID": 7890710,
+    "Authors": ["tayoken"],
+    "Whitelist": [],
+    "Blacklist": [],
+    "Power Level": 0,
+    "Dependencies": [],
+    "Priority": 99,
+    "Mode": 7,
+    "APK Version": "5.22.1",
+    "Patch Tags": ["Vegito", "LR", "SEZA", "Trunks", "tayoken"],
+    "Patch Types": ["EZA"]
+}
